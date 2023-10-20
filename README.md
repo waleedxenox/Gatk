@@ -1,2 +1,2 @@
-# Gatk
+# gatk
 Gatk_repo
